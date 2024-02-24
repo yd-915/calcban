@@ -1,11 +1,11 @@
 .text-center.add-new-list:hover {
   opacity:0.9;
-  color:#40409A;
+  color:#e34141;
 }
 
 .text-center.add-new-list {
   font-size:14px;
-  color:#767676;
+  color:#453c3c;
   cursor:pointer;
   opacity:0.4;
 }
